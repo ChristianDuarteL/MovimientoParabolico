@@ -1,0 +1,6 @@
+/.vs
+/.vs/*
+/Logs
+/Logs/*
+/obj
+/obj/*
